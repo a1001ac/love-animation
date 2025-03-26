@@ -24,7 +24,7 @@ This project is a Vue.js application that allows users to create a beautiful lov
 
 ### Screenshots
 ## pc
-![image](https://github.com/user-attachments/assets/7022676e-5407-4920-b66a-72226bd21ddf)
+![image](https://github.com/user-attachments/assets/dce42fec-a870-4ad5-a264-128ff80eca2d)
 
 ![image](https://github.com/user-attachments/assets/df78de78-3160-4c53-a6cc-45f7544b7859)
 
